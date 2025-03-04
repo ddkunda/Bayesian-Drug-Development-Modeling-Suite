@@ -1,6 +1,6 @@
 ## Bayesian Modeling Suite: Advanced Tools for Drug Development Analysis
 
-### Welcome to the Bayesian Modeling Suite, a Shiny App designed to streamline Bayesian analysis for drug development. 
+#### Welcome to the Bayesian Modeling Suite, a Shiny App designed to streamline Bayesian analysis for drug development. 
 
 This app provides three advanced modeling tools to support preclinical and clinical research:
 
@@ -12,4 +12,4 @@ This app provides three advanced modeling tools to support preclinical and clini
 
 To ensure fast and efficient analysis, this app relies on the MyStanPkg R package, which provides pre-compiled Stan models to eliminate model compilation time. You can download and install MyStanPkg from its GitHub repository ([ddkunda/MyStanPkg](https://github.com/ddkunda/MyStanPkg)).
 
-### Explore the app and its functionalities by visiting the deployed Shiny app here.
+#### Explore the app and its functionalities by visiting the deployed Shiny app here.
